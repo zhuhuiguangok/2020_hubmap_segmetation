@@ -1,0 +1,2 @@
+# 2020_hubmap_segmetation
+2020_kaggle_肾小球比赛-baseline修改版，添加了ASPP结构和各种比较新的loss函数。
